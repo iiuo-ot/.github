@@ -71,7 +71,7 @@ Whether you're writing, coding, optimizing, or formatting — you'll find the ri
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/online-tools.git
+   git clone https://github.com/your-username/iiuo-ot.git
    cd online-tools
    ```
 
